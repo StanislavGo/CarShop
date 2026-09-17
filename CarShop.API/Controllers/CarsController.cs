@@ -1,4 +1,4 @@
-﻿using CarShop.API.Contracts;
+using CarShop.API.Contracts;
 using CarShop.Core.Interfaces;
 using CarShop.Core.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CarShop.API.Controllers;
 
 [Controller]
-[Route("{controller}")]
+[Route("[controller]")]
 public class CarsController : ControllerBase
 {
     private readonly ICarsService _carsService;
@@ -41,7 +41,7 @@ public class CarsController : ControllerBase
         return Ok(car.Vin);
     }
 
-    [HttpPut("{id}")]
+    [HttpPut("{vin}")]
     public async Task<ActionResult<Guid>> UpdateCar(Guid vin, [FromBody] CarsRequest request)
     {
         var carId = await _carsService.UpdateCar(vin, request.Model, request.Price, request.Color);
@@ -49,10 +49,10 @@ public class CarsController : ControllerBase
         return Ok(carId);
     }
 
-    [HttpDelete("{id}")]
-    public async Task<ActionResult<Guid>> DeleteCar(Guid id)
+    [HttpDelete("{vin}")]
+    public async Task<ActionResult<Guid>> DeleteCar(Guid vin)
     {
-        var carId= await _carsService.DeleteCar(id);
+        var carId= await _carsService.DeleteCar(vin);
 
         return Ok(carId);
     }
