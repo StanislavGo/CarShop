@@ -1,0 +1,25 @@
+GET {{CarShopHost}}/cars/
+Accept: application/json
+
+###
+POST {{CarShopHost}}/cars/
+Content-Type: application/json
+
+{
+  "Model": "Tesla",
+  "Price": 25000,
+  "Color": "white"
+}
+
+###
+PUT {{CarShopHost}}/cars/vin
+Content-Type: application/json
+
+{
+  "Model": "Tesla X",
+  "Price": 25000,
+  "Color": "Yellow"
+}
+
+###
+DELETE {{CarShopHost}}/cars/vin

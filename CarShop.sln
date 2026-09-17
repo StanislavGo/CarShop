@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop.API", "CarShop.API\CarShop.API.csproj", "{040762C4-76BA-43CB-9866-5607D55CF3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop.BusinessLogic", "CarShop.BusinessLogic\CarShop.BusinessLogic.csproj", "{D1F7DACA-FCF4-4371-B730-1760C12AE332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop.Core", "CarShop.Core\CarShop.Core.csproj", "{23BF9AEE-C947-4E71-B022-F888781863A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop.DataAccess", "CarShop.DataAccess\CarShop.DataAccess.csproj", "{3F8478C6-0071-4B7E-A709-EBBA2C6BF255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040762C4-76BA-43CB-9866-5607D55CF3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040762C4-76BA-43CB-9866-5607D55CF3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040762C4-76BA-43CB-9866-5607D55CF3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040762C4-76BA-43CB-9866-5607D55CF3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F7DACA-FCF4-4371-B730-1760C12AE332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F7DACA-FCF4-4371-B730-1760C12AE332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F7DACA-FCF4-4371-B730-1760C12AE332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F7DACA-FCF4-4371-B730-1760C12AE332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BF9AEE-C947-4E71-B022-F888781863A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BF9AEE-C947-4E71-B022-F888781863A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BF9AEE-C947-4E71-B022-F888781863A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BF9AEE-C947-4E71-B022-F888781863A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8478C6-0071-4B7E-A709-EBBA2C6BF255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8478C6-0071-4B7E-A709-EBBA2C6BF255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8478C6-0071-4B7E-A709-EBBA2C6BF255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8478C6-0071-4B7E-A709-EBBA2C6BF255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

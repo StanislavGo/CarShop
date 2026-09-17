@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\bin\Debug\net10.0\CarShop.BusinessLogic.deps.json
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\bin\Debug\net10.0\CarShop.BusinessLogic.runtimeconfig.json
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\bin\Debug\net10.0\CarShop.BusinessLogic.dll
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\bin\Debug\net10.0\CarShop.BusinessLogic.pdb
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\bin\Debug\net10.0\CarShop.Core.dll
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\bin\Debug\net10.0\CarShop.Core.pdb
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop..D8CC24ED.Up2Date
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.dll
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\refint\CarShop.BusinessLogic.dll
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.pdb
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\CarShop.BusinessLogic.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PetProjects\CarShop\CarShop.BusinessLogic\obj\Debug\net10.0\ref\CarShop.BusinessLogic.dll
