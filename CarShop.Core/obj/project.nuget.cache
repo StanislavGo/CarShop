@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44GbTTMmBJQ=",
+  "dgSpecHash": "QnTihWnXNJQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

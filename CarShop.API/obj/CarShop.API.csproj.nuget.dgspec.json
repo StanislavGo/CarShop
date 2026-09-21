@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.API\\CarShop.API.csproj": {}
+    "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.API\\CarShop.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.API\\CarShop.API.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.API\\CarShop.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.API\\CarShop.API.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.API\\CarShop.API.csproj",
         "projectName": "CarShop.API",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.API\\CarShop.API.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.API\\CarShop.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.API\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj"
+              "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj"
               },
-              "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj"
+              "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj"
               }
             }
           }
@@ -521,14 +521,14 @@
         }
       }
     },
-    "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj",
         "projectName": "CarShop.BusinessLogic",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.BusinessLogic\\CarShop.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -543,8 +543,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj"
+              "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj"
               }
             }
           }
@@ -880,14 +880,14 @@
         }
       }
     },
-    "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
         "projectName": "CarShop.Core",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1235,14 +1235,14 @@
         }
       }
     },
-    "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
         "projectName": "CarShop.DataAccess",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1257,8 +1257,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj"
+              "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj"
               }
             }
           }

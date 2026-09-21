@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {}
+    "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
         "projectName": "CarShop.Core",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\CarShop.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\PetProjects\\CarShop\\CarShop.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Car\\CarShop\\CarShop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
