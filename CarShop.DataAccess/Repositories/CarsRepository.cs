@@ -16,15 +16,15 @@ public class CarsRepository : ICarsRepository
     
     public async Task<List<Car>> Get()
     {
-        var bookEntities = await _dbContext.Cars
+        var carEntities = await _dbContext.Cars
             .AsNoTracking()
             .ToListAsync();
 
-        var books = bookEntities
+        var cars = carEntities
             .Select(c => Car.Create(c.Vin, c.Model, c.Price, c.Color).car)
             .ToList();
 
-        return books;
+        return cars;
     }
 
     public async Task<Guid> Create(Car car)
@@ -37,7 +37,7 @@ public class CarsRepository : ICarsRepository
             Price = car.Price
         };
 
-        await _dbContext.Cars.AddAsync(car);
+        await _dbContext.Cars.AddAsync(carEntity);
         await _dbContext.SaveChangesAsync();
 
         return carEntity.Vin;

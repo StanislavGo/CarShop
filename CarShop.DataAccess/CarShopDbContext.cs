@@ -1,4 +1,4 @@
-﻿using CarShop.Core.Models;
+﻿using CarShop.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace CarShop.DataAccess;
@@ -9,5 +9,5 @@ public class CarShopDbContext : DbContext
     {
     }
 
-    public DbSet<Car> Cars;
+    public DbSet<CarEntity> Cars => Set<CarEntity>();
 }
